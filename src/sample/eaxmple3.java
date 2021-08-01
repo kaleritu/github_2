@@ -1,5 +1,8 @@
 package sample;
 
-public class eaxmple3 {
+public class eaxmple3 
+{public static void main(String[] args) {
+	System.out.println("hello");
+}
 
 }
